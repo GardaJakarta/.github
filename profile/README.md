@@ -29,8 +29,10 @@ Garda Jakarta dirancang untuk membantu orang:
 | Repository | Fungsi |
 | --- | --- |
 | [`GardaJakarta-Landing`](https://github.com/GardaJakarta/GardaJakarta-Landing) | Website publik, pengenalan produk, cara kerja, dan kanal bantuan Garda Jakarta |
+| [`GardaJakarta-FE`](https://github.com/GardaJakarta/GardaJakarta-FE) | Aplikasi React + Vite, autentikasi warga/polisi/admin, dan fondasi peta |
+| [`GardaJakarta-BE`](https://github.com/GardaJakarta/GardaJakarta-BE) | Express, Better Auth, Prisma, dan PostgreSQL |
 
-Repository lain akan ditambahkan ketika layanan produk dan platform pendukung siap dipublikasikan.
+Website publik berada di `gardajakarta.my.id`, aplikasi di `app.gardajakarta.my.id`, dan API di `api.gardajakarta.my.id`. Tahap saat ini berfokus pada autentikasi; fitur peta dan laporan menyusul.
 
 ## Prinsip Kami
 
